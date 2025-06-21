@@ -64,7 +64,7 @@ body {
 
 
 .svgx {
-  max-width: 25%; /* only 25 percent of the image */
+  max-width: 40%; /* only 25 percent of the image */
   height: auto; /* Maintains aspect ratio */
   animation: fadeSlideUp 1s ease-out;
 }
