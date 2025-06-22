@@ -34,9 +34,6 @@ This is a simple, fun, and responsive **entertainment website** that offers user
 ## 📦 Folder Structure
 
 
-
-
-
 📁 project-root
 ├── index.html
 ├── quotes.html
@@ -50,9 +47,6 @@ This is a simple, fun, and responsive **entertainment website** that offers user
 │ ├── horoscope.js
 │ └── advice.js
 
-markdown
-Copy
-Edit
 
 ## 🔐 API Key Setup
 
